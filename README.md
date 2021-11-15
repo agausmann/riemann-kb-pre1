@@ -2,6 +2,8 @@
 
 A pseudo-split 60% ortholinear keyboard.
 
+![PCB Design](media/pcb-design.png)
+
 ## Main Features
 
 - 60 keys in a 5x12 grid
